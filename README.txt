@@ -1,7 +1,5 @@
 This folder is contains all the material submitted for the Digital Humanities Project.
 
-The document Final_presentation.pdf explains the project and the work done. This is the presentation for the project.
-
 The python program modi_model.py is the implementation of the main NLP technique, word embedding skip gram, that forms the meat of the project. The program is interactive and user friendly, but running it will require the download of python machine learning libraries. The screenshots of the result are in presentation. 
 I will be more than happy to show the program run on my machine on MS Teams.
 
@@ -11,5 +9,3 @@ The python program modi_frequency.py generates the word frequency that is word_f
 
 The text files all_speeches_date_title and english_speeches.txt are the raw data used in the project. Please DO NOT remove them from the folder, please DO NOT rename them. The code will break otherwise.
 
-Dushyant Goel
-201401011
